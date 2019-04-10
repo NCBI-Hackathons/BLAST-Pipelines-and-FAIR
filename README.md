@@ -1,4 +1,6 @@
-### BLAST-Pipelines-and-FAIR
+# BIO-IT 2019 Hacakthon: BLAST, Pipelines, and FAIR
+
+### What's happening?
 
 This team will build pipelines using a framework (Common Workflow Language or CWL) that should make the resulting pipeline more FAIR (not to mention understandable and robust).  The idea will be to build the pipeline with modules, one of which runs BLAST, that accomplish the task.  Some modules already exist (see the blast-pipelines directory listed below), but we'll certainly need to write more.  
 
@@ -19,6 +21,10 @@ We'll be working on pipelines with a workflow along the lines of "do something",
 We'll be using some recently developed BLAST cloud resources on GCS that includes a dockerized version of BLAST and databases hosted on the cloud provider.  There will be lots of coding and even some thinking.  Because of the CWL, there will also be lots of YAML and JSON!  
 
 Take a look at the links on this page to find out more.  The CWL video (below) is a good introduction to CWL.
+
+### Is anybody going to use this stuff when we're done?
+
+I sure hope so! 
 
 
 ### Resources
