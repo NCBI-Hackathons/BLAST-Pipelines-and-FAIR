@@ -1,4 +1,4 @@
-# BIO-IT 2019 Hacakthon: BLAST, Pipelines, and FAIR
+# BIO-IT 2019 Hackathon: BLAST, Pipelines, and FAIR
 
 ### What's happening?
 
