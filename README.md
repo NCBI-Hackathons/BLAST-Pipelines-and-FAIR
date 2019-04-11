@@ -16,9 +16,11 @@ We'll be working on pipelines with a workflow along the lines of "do something",
 
 3.) SPADE: https://github.com/yachielab/SPADE (https://www.ncbi.nlm.nih.gov/pubmed/30304510)
 
+4.) CRISPRicity Pipeline: https://github.com/ncbi/ICITY (https://www.ncbi.nlm.nih.gov/pubmed/29784811)
+
 ### Where will we do this?
 
-We'll be using some recently developed BLAST cloud resources on GCS that includes a dockerized version of BLAST and databases hosted on the cloud provider.  There will be lots of coding and even some thinking.  Because of the CWL, there will also be lots of YAML and JSON!  
+We'll be using some recently developed BLAST cloud resources on Google Cloud Services that includes a dockerized version of BLAST and databases hosted on the cloud provider.  There will be lots of coding and even some thinking.  Because of the CWL, there will also be lots of YAML and JSON!  
 
 Take a look at the links on this page to find out more.  The CWL video (below) is a good introduction to CWL.
 
