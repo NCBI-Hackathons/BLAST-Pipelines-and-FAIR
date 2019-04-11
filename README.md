@@ -6,7 +6,7 @@ This team will build pipelines using a framework (Common Workflow Language or CW
 
 Please see https://github.com/ncbi/cwl-demos/blob/master/blast-pipelines/README.md for a quick description and the contents of https://github.com/ncbi/cwl-demos/tree/master/blast-pipelines for some CWL modules.  You may want to start with the CWL [Video][cwl_video] first though.
 
-### What Pipeline(s) though?
+### Which Pipelines?
 
 We'll be working on pipelines with a workflow along the lines of "do something", run BLAST of some flavor, "do something else".  I've come up with a few pipelines that fit the bill (see below), but team members should come with their own suggestions.  I'll add a few more as we get closer to the hackathon.
 
@@ -22,9 +22,7 @@ We'll be using some recently developed BLAST cloud resources on GCS that include
 
 Take a look at the links on this page to find out more.  The CWL video (below) is a good introduction to CWL.
 
-### Is anybody going to use this stuff when we're done?
 
-I sure hope so! 
 
 
 ### Resources
