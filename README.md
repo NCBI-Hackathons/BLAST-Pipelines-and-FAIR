@@ -4,7 +4,7 @@
 
 This team will build pipelines using a framework (Common Workflow Language or CWL) that should make the resulting pipeline more FAIR (not to mention understandable and robust).  The idea will be to build the pipeline with modules, one of which runs BLAST, that accomplish the task.  Some modules already exist (see the blast-pipelines directory listed below), but we'll certainly need to write more.  
 
-Please see https://github.com/ncbi/cwl-demos/blob/master/blast-pipelines/README.md for a quick description and the contents of https://github.com/ncbi/cwl-demos/tree/master/blast-pipelines for some CWL modules.  You may want to start with the CWL [Video][cwl_video] first though.
+Please see https://github.com/NCBI-Hackathons/BLAST-Pipelines-and-FAIR/blob/master/blast-pipelines/README.md for a quick description and the contents of https://github.com/NCBI-Hackathons/BLAST-Pipelines-and-FAIR/blob/master/blast-pipelines for some CWL modules.  You may want to start with the CWL [Video][cwl_video] first though.
 
 ### Which Pipelines?
 
