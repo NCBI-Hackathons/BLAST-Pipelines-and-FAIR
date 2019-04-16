@@ -1,0 +1,32 @@
+user_query1:
+   class: File
+   path: 559292.fsa
+
+user_db_dir:
+  class: Directory
+  path: blastdb
+
+user_db_flag: landmark_v5
+
+#taxid_flag: "559292"
+user_taxid_flag1: "4896"
+
+user_outfmt_flag: "6 qaccver saccver bitscore pident qcovhsp qlen length"
+
+user_query2:
+   class: File
+   path:  4896.fsa
+
+user_taxid_flag2: "559292"
+
+user_out_flag1: 4896.tab
+user_out_flag2: 559292.tab
+
+
+blast_output_1:
+  class: File
+  path: /home/madden/4896.tab
+blast_output_2:
+  class: File
+  path: /home/madden/559292.tab
+user_out_results: rbh_output.tab
