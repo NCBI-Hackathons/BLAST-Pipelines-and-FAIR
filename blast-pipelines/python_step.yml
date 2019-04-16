@@ -1,0 +1,7 @@
+blast_output_1:
+  class: File
+  path: /home/madden/4896.tab
+blast_output_2:
+  class: File
+  path: /home/madden/559292.tab
+out_file: rbh_output_2.tab
