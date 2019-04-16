@@ -1,8 +1,9 @@
 class: CommandLineTool
 cwlVersion: v1.0
-doc: Process two tabular BLAST outputs
+label: Process two tabular BLAST outputs and return RBHs
+doc: Process two tabular BLAST outputs and return RBHs
 # Path needs to be changed prior to demo
-baseCommand: [python, /home/amanda.ruby/galaxy_blast/tools/blast_rbh/blast_rbh_report.py]
+baseCommand: [python, /home/madden/COMMONS/galaxy_blast/tools/blast_rbh/blast_rbh_report.py]
 
 inputs:
     blast_output_1:
